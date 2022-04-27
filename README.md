@@ -3,7 +3,7 @@ This project is done to translate an national language to another national langu
 
 
 
-For this project i used the API : https://shrouded-earth-23381.herokuapp.com/api/headlines/india
+This is the API for this project : https://libretranslate.de/translate
 
 [Deployed link](https://superlative-hamster-93e7e6.netlify.app/)
 
